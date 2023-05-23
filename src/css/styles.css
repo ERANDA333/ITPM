@@ -1,0 +1,52 @@
+.chef-container{
+    margin-right:0px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-bottom: 500px;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    transition: 0.5s;
+}
+
+.col-sm-6 shadow round pb-5{
+    background-color: rgba(0, 0, 0, 0.5);
+    margin:auto;
+    padding:40px;
+    border-radius: 5px;
+}
+
+.chef-container{
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.col-sm-6{
+       background-color: rgba(195, 245, 239, 0.141);
+}
+
+.form{
+    margin: 20px;
+}
+
+#home{
+    background-image: url("../images/home.jpg");
+    width: "992px";
+    height: "1108px";
+    alt: "boy";
+}
+
+.contain{
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#table{
+    margin-left: 20px;
+    margin-right: 20px;
+}
