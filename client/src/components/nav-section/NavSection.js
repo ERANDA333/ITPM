@@ -44,11 +44,11 @@ function NavItem({ item }) {
         },
       }}
     >
-      <StyledNavItemIcon>{icon && icon}</StyledNavItemIcon>
+      <StyledNavItemIcon>{icon && icon1}</StyledNavItemIcon>
 
       <ListItemText disableTypography primary={title} />
 
-      {info && info}
+      {info && info1}
     </StyledNavItem>
   );
 }
